@@ -5,16 +5,17 @@
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
-
+  <h2>test</h2>
+  
   <!-- Cetak 5 + 7 dibawah -->
-  <?php
+ <h1> <?php
     echo 5 + 7;
-  ?>
+    ?></h1>
 
-  <br>
+<br>
 
-  <!-- Cetak '5 + 7' dibawah -->
-  <?php
+<!-- Cetak '5 + 7' dibawah -->
+<?php
   echo '5 + 7';
     
   ?>
