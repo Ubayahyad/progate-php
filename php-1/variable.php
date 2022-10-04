@@ -1,3 +1,4 @@
+<html>
 <head>
   <meta charset="utf-8">
   <title>Progate</title>
@@ -5,17 +6,18 @@
 </head>
 <body>
 
-  <!-- Cetak 5 + 7 dibawah -->
+  <!-- Deklarasikan variable $fruit dibawah -->
   <?php
-    echo 5 + 7;
+    $fruit = 'Apel';
+    echo $fruit;
   ?>
 
   <br>
 
-  <!-- Cetak '5 + 7' dibawah -->
+  <!-- Deklarasikan variable $sum dibawah -->
   <?php
-  echo '5 + 7';
-    
+    $sum = 8 + 9;
+    echo $sum;
   ?>
 
 </body>
